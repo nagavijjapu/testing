@@ -45,5 +45,5 @@ jobs:
           -Dsonar.organization=my-org
           -Dsonar.projectKey=sonarqube_feature
       env:
-        SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN_MAIN }} # Same token
+        SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN_FEATURE }} # Same token
         SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL_FEATURE }} # Instance 2 URL
