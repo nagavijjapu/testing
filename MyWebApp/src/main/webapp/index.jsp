@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="e">
+
+<html lang="en">
 <head>
 <title>Some relevant title</title>
 </head>
